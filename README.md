@@ -1,2 +1,2 @@
 # desafio1-gpa
-Primeiro desafio da maratona IBM behind the code. Desenvover um assistente virtural para auxiliar crianças de 0 a 6 anos de idade no aprendizado de matemática.
+Primeiro desafio da maratona IBM behind the code. Desenvover um assistente virtual para auxiliar pessoas na hora da escolha de vinhos para ocasiões e pratos específicos.
